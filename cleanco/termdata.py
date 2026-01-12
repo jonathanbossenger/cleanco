@@ -491,7 +491,7 @@ terms_by_country = {
         "集团公司",
         "集團公司",
     ],
-    "Columbia": [
+    "Colombia": [
         "e.u.",
         "s.a.",
         "s.a.s.",
